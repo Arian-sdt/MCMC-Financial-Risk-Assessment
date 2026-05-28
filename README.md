@@ -6,6 +6,8 @@ Bayesian volatility and tail-risk modeling for S&P 500 returns using Markov Chai
 
 This project models financial market risk using daily S&P 500 price data from Yahoo Finance. It estimates volatility with Bayesian methods, compares GARCH and stochastic volatility forecasts, simulates market paths, and evaluates simple volatility-based exposure strategies.
 
+For an indepth overview of the project refer to `ProjectReport.pdf`
+
 The project focuses on:
 
 - Bayesian GARCH(1,1) parameter estimation
