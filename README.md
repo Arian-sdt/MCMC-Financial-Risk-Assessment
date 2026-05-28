@@ -1,8 +1,6 @@
 # MCMC-Financial-Risk-Assessment
 Bayesian Volatility and Tail Risk Modeling for Financial Returns Using MCMC
-Done. I inspected the repo and deleted the local clone afterward. Here’s a README tailored to the actual project files:
 
-```markdown
 # MCMC Financial Risk Assessment
 
 Bayesian volatility and tail-risk modeling for S&P 500 returns using Markov Chain Monte Carlo (MCMC), Bayesian GARCH, and stochastic volatility models.
