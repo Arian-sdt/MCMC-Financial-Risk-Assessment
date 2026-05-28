@@ -1,6 +1,3 @@
-# MCMC-Financial-Risk-Assessment
-Bayesian Volatility and Tail Risk Modeling for Financial Returns Using MCMC
-
 # MCMC Financial Risk Assessment
 
 Bayesian volatility and tail-risk modeling for S&P 500 returns using Markov Chain Monte Carlo (MCMC), Bayesian GARCH, and stochastic volatility models.
